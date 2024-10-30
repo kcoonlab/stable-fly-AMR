@@ -4,7 +4,7 @@ This repository contains data associated with the manuscript titled: "Prevalence
 
 The following files are attached:
 
-SupplementalFile1_AMR_Sommer.xlsx => Supplemental tables containing the disk diffusion results < br / >
+SupplementalFile1_AMR_Sommer.xlsx => Supplemental tables containing the disk diffusion results <br />
 · Table S1: PCR Primers and annealing temperatures used in this study
 · Table S2: Antimicrobial resistance profiles and provenience of E. coli isolates
 · Table S3: Antimicrobial resistance profiles and provenience of Klebsiella isolates
