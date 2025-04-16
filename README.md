@@ -1,5 +1,5 @@
 # stable-fly-AMR
-This repository contains data associated with the manuscript titled: "Prevalence of antimicrobial resistance phenotypes and genes in stable fly- and manure-derived bacterial isolates from clinically relevant taxa in dairy settings"
+**Repository for manuscript: "Sommer, A. J., Kettner, J. E., Worley, T. K., Petrick, J., Haynie, C., & Coon, K. L. (2025). Prevalence of antimicrobial resistance phenotypes and genes in stable fly-and manure-derived bacterial isolates from clinically relevant taxa in dairy settings. Journal of Applied Microbiology, 136(2), lxaf025."** 
 
 
 The following files are attached:
